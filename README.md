@@ -16,4 +16,4 @@ The website is connected to the Coingecko API, which is a popular source of data
 
 <br>
 
-<b> Live Demo:</b> <a href="https://cryptoanalyser.netlify.app/">Crypto Analuser App</a>
+<b> Live Demo:</b> <a href="https://cryptoanalyser.netlify.app/">Crypto Analyser App</a>
